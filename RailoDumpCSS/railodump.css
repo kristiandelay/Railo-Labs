@@ -1,0 +1,59 @@
+/*------------------------------------------------[ :: COLDFUSION CFDUMP :: ]:------------------------------------------*/
+
+.tableDumpmodern tbody {
+
+    font: 1.6em  "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
+    text-transform: uppercase !important;
+}
+
+table.tableDumpmodern {
+
+    width: 95%;
+    margin: 5em auto !important;
+    color: #F5F5F5;
+    background: darkcyan !important;
+    border-radius: 4px;
+
+}
+
+table.tableDumpmodern tr td{
+    background: #202020 !important;
+}
+table.tableDumpmodern th.cfc {
+    background-color: #6d0069 !important;
+
+}
+
+table.tableDumpmodern th.cfc a {
+    color: #F5F5F5 !important;
+}
+
+
+table.tableDumpmodern td.cfc {
+    background-color: #24748c !important;
+}
+
+table.cfdump_udf th.udf {
+    background-color: #76A2C0 !important;
+}
+
+
+table.tableDumpmodern th.struct {
+
+    background-color: #575757 !important;;
+
+}
+/*.struct, .query {
+
+    background: #2d2d2d !important;
+
+    color: #05A6C2 !important;
+}*/
+.headermodern, .tdModernStructName {
+    background: #2d2d2d !important;
+    color: #05A6C2 !important;
+}
+.tdBasemodern, .tdModernSimpleValueValue, .tdClickValueModernSimpleValue{
+background: #2d2d2d !important;
+    color: #fff !important;
+}
