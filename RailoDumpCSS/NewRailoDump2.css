@@ -1,0 +1,10 @@
+div.-railo-dump  td span {font-weight:bold !important;}
+div.-railo-dump table{background-color:#000 !important;font-family:Arial, Helvetica, sans-serif  !important; font-size:12px !important; empty-cells:show !important; color:#008b8b !important;border-spacing:0px !important; border:none !important;}
+div.-railo-dump td.r99f {background-color:#000 !important; border-right:1px solid #008b8b !important; border-bottom:1px solid #008b8b !important; padding:3px !important;}
+div.-railo-dump td.rc9c {background-color:#000 !important; border-right:1px solid #008b8b !important; border-bottom:1px solid #008b8b !important; padding:3px !important;} 
+div.-railo-dump td.r99f:nth-child(even) {background-color:#222 !important;  }
+div.-railo-dump td.rc9c:nth-child(even) {background-color:#222 !important;  }
+div.-railo-dump td {background-color:transparent !important; padding:3px !important; border:none !important; border-right:1px solid #008b8b !important;border-bottom:1px solid #008b8b !important;}
+div.-railo-dump tr:nth-child(even) {background: #222  !important;}
+div.-railo-dump tr tr:nth-child(even) {background: #222  !important;}
+div.-railo-dump tr:hover{ background-color:#e6faeb !important;} 
